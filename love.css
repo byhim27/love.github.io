@@ -1,3 +1,7 @@
 img{
 border: 0;
 }
+audio{
+	width: auto;
+	height: auto;
+}

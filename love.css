@@ -9,3 +9,6 @@ audio{
 	height: auto;
     width: auto;
 }
+audio:not([controls]) {
+    display: none !important;
+}

@@ -6,8 +6,8 @@ element.style {
     width: 100%;
 }
 audio{
-	height: auto;
-    width: auto;
+	height: 54px;
+    width: 300px;
 }
 audio:not([controls]) {
     display: none !important;

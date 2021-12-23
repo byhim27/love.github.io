@@ -5,10 +5,10 @@ element.style {
     height: 100%;
     width: 100%;
 }
-audio{
-	height: 54px;
-    width: 300px;
-}
 audio:not([controls]) {
     display: none !important;
+}
+audio{
+    height: 54px;
+    width: 300px;
 }

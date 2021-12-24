@@ -1,5 +1,6 @@
 # love.github.io
-<audio controls autoplay loop><source src="tuyhongnhan.mp3" type="audio/mpeg"></audio>\\<script>
+<audio controls autoplay loop><source src="tuyhongnhan.mp3" type="audio/mpeg"></audio>\\
+	<script>
       document.body.addEventListener("click", function (evt) {
         console.dir(this);
         console.log(evt.target);
